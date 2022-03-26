@@ -1,4 +1,7 @@
-# Panneaux-Circulations-API
+# Explications
+
+Chaque type de panneaux, sont triées par groupe, 
+(par ex. les panneaux services.) :
 
 <html>
 
@@ -31,3 +34,12 @@
 </body>
 
 </html>
+
+# Utiliser l'API
+
+L'API sera prochainement ouverte, 
+je fais le plus rapidement possible,
+lors de sa sortie la totalité 
+des panneaux seront disponibles. 
+Elle sera au format JSON 
+pour vous faciliter l'utilisation.
