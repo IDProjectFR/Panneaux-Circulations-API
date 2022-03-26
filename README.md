@@ -26,9 +26,6 @@
 
 <img class="sun" src="https://raw.githubusercontent.com/IDProjectFR/Panneaux-Circulations-API/main/Pictures/90px-France_road_sign_CE51.svg.png" alt="Panneau Service">
 
-<img class="sun" src="https://raw.githubusercontent.com/IDProjectFR/Panneaux-Circulations-API/main/Pictures/90px-France_road_sign_CE52.svg.png" alt="Panneau Service">
-
-
 </div>
 
 </body>
