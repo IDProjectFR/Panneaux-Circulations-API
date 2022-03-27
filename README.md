@@ -43,3 +43,8 @@ lors de sa sortie la totalité
 des panneaux seront disponibles. 
 Elle sera au format JSON 
 pour vous faciliter l'utilisation.
+
+# Démo de l'API 
+
+Vous pouvez tester mon API en installant L'APK
+en cliquant juste ici 👇
